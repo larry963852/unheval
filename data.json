@@ -1,0 +1,288 @@
+{
+    "E.A.P.: INGENIERIA AGRONOMICA / HUANUCO": [
+        {
+            "name": "1 MALLQUI VALLES, STEVEN VIDAL",
+            "note": "533.50"
+        }
+    ],
+    "E.A.P.: INGENIERIA AGROINDUSTRIAL / HUANUCO": [
+        {
+            "name": "3 TRUJILLO CASTA\u00d1EDA, KYANE ANDRE",
+            "note": "500.00"
+        }
+    ],
+    "E.A.P.: MEDICINA HUMANA / HUANUCO": [
+        {
+            "name": "1 VENTURO CUYUBAMBA, LUIS MARCELO",
+            "note": "911.50"
+        },
+        {
+            "name": "2 MORALES RUIZ, URIEL ADRIANO",
+            "note": "854.00"
+        }
+    ],
+    "E.A.P.: ENFERMERIA / HUANUCO": [
+        {
+            "name": "2 BARDALES MENDOZA, LUCIANA JAZMIN",
+            "note": "756.50"
+        },
+        {
+            "name": "5 SERRANO CORREA, JHOSTIN JHON",
+            "note": "682.50"
+        },
+        {
+            "name": "7 CALZADA GONZALES, YORIANA LETICIA",
+            "note": "647.50"
+        },
+        {
+            "name": "8 RAMOS LEON, FRANK YAIR",
+            "note": "631.50"
+        },
+        {
+            "name": "10 ALVARADO ALVARADO, ALVARO AGUSTIN",
+            "note": "602.50"
+        }
+    ],
+    "E.A.P.: OBSTETRICIA / HUANUCO": [
+        {
+            "name": "4 CHAVEZ MANZANO, MARYCIELO DE GUADALUPE",
+            "note": "647.00"
+        },
+        {
+            "name": "7 RAMIREZ MALPARTIDA, EMELYN BRIYITH",
+            "note": "620.50"
+        },
+        {
+            "name": "10 BRAVO INGUNZA, CELINA NICOL",
+            "note": "607.50"
+        },
+        {
+            "name": "12 QUINTANA FERRER, FATIMA LUCIA",
+            "note": "565.50"
+        }
+    ],
+    "E.A.P.: CIENCIAS ADMINISTRATIVAS / HUANUCO": [
+        {
+            "name": "1 TITO SARMIENTO, EDWIN SEBASTIAN",
+            "note": "775.50"
+        },
+        {
+            "name": "2 LUCAS TOLENTINO, LUIS ANTONY",
+            "note": "679.00"
+        },
+        {
+            "name": "3 RODR\u00cdGUEZ LEDESMA, JOSU\u00c9 EDUARDO",
+            "note": "664.00"
+        },
+        {
+            "name": "4 MAGARE\u00d1O BEZARES, JIHOSMAR HEMERZON",
+            "note": "647.50"
+        }
+    ],
+    "E.A.P.: CIENCIAS CONTABLES Y FINANCIERAS / HUANUCO": [
+        {
+            "name": "1 PRINCIPE ESPINOZA, JHAIR DELFIN",
+            "note": "783.00"
+        },
+        {
+            "name": "2 LEON VIDAL, JHORDAN YAREN",
+            "note": "640.00"
+        },
+        {
+            "name": "3 DOMINGUEZ GONZALES, MARYORI ANETH",
+            "note": "637.00"
+        },
+        {
+            "name": "4 JARA GARCIA, JOSE LEONEL",
+            "note": "605.00"
+        },
+        {
+            "name": "6 BUENO BERROSPI, GABRIELLA ESTALINNA",
+            "note": "569.00"
+        }
+    ],
+    "E.A.P.: ECONOMIA / HUANUCO": [
+        {
+            "name": "3 DUE\u00d1AS SANTOS, MAYLIN",
+            "note": "641.00"
+        },
+        {
+            "name": "4 MENDOZA POMA, ANAHY VALEZCA",
+            "note": "598.50"
+        },
+        {
+            "name": "5 VILLACORTA ARRAMBIDE, GERARDO JOSE",
+            "note": "594.50"
+        },
+        {
+            "name": "6 MALLQUI RUBIN, ARACELI BRIGITTE",
+            "note": "580.50"
+        }
+    ],
+    "E.A.P.: SOCIOLOGIA / HUANUCO": [
+        {
+            "name": "2 BARBIERI ESPINOZA, CAMILA KATHERINE",
+            "note": "502.50"
+        }
+    ],
+    "E.A.P.: CIENCIAS DE LA COMUNICACION SOCIAL / HUANUCO": [
+        {
+            "name": "2 CHAVEZ AQUINO, AVRIL ROSSE",
+            "note": "651.50"
+        },
+        {
+            "name": "5 GARCIA MOGOLLON, GUILIANA AIDA",
+            "note": "528.50"
+        },
+        {
+            "name": "6 MALLQUI SALVADOR, ANGELA STEFANI",
+            "note": "524.50"
+        }
+    ],
+    "E.A.P.: EDUCACION INICIAL / HUANUCO": [
+        {
+            "name": "2 ESTRADA VARA, ROCIO MADELEYNE",
+            "note": "502.50"
+        }
+    ],
+    "E.A.P.: EDUCACION PRIMARIA / HUANUCO": [
+        {
+            "name": "1 CAMARENA CHACA, ALEXANDRA NICOL",
+            "note": "514.00"
+        }
+    ],
+    "E.A.P.: CIENCIAS HISTORICO SOCIALES Y GEOGRAFICAS / HUANUCO": [
+        {
+            "name": "1 GARCIA HUAYNATES, ANDREA FERNANDA",
+            "note": "566.50"
+        }
+    ],
+    "E.A.P.: LENGUA Y LITERATURA / HUANUCO": [
+        {
+            "name": "1 BETETA ACU\u00d1A, MARIANNE ALIZONNE",
+            "note": "585.50"
+        }
+    ],
+    "E.A.P.: MATEMATICA Y FISICA / HUANUCO": [
+        {
+            "name": "3 ECHEVARRIA ESPINOZA, FELIPE FRANCO",
+            "note": "529.50"
+        }
+    ],
+    "E.A.P.: DERECHO Y CIENCIAS POLITICAS / HUANUCO": [
+        {
+            "name": "1 MOZOMBITE SIFUENTES, MARIANNE STEPHANY",
+            "note": "892.50"
+        },
+        {
+            "name": "2 PRINCIPE SANTIAGO, LUIS DAVID",
+            "note": "811.50"
+        },
+        {
+            "name": "3 PEREZ CIERTO, BRAD ANGHELO",
+            "note": "775.50"
+        },
+        {
+            "name": "4 CADENA URETA, ARACELLI MELISSA",
+            "note": "773.00"
+        }
+    ],
+    "E.A.P.: INGENIERIA CIVIL / HUANUCO": [
+        {
+            "name": "1 CISNEROS ATENCIA, FRANKLIN DANILO",
+            "note": "895.00"
+        },
+        {
+            "name": "4 CARDENAS TARAZONA, ANTONY ANDRE",
+            "note": "878.00"
+        },
+        {
+            "name": "6 TARAZONA PALOMINO, IAN JOEL",
+            "note": "850.00"
+        },
+        {
+            "name": "9 JARAMILLO VALDIVIA, RODRIGO SEBASTIAN",
+            "note": "804.00"
+        }
+    ],
+    "E.A.P.: ARQUITECTURA / HUANUCO": [
+        {
+            "name": "3 VIVIANO ALEJO, ARIANA MAYTE",
+            "note": "697.50"
+        },
+        {
+            "name": "4 VELEZ DE VILLA SANTIAGO, JESUS ALEJANDRO",
+            "note": "647.50"
+        }
+    ],
+    "E.A.P.: INGENIERIA INDUSTRIAL / HUANUCO": [
+        {
+            "name": "2 GARCIA SANCHEZ, ENRIQUE FERNANDO",
+            "note": "696.50"
+        },
+        {
+            "name": "4 CHAGUA BUSTOS, LINCOLN HAZIEL",
+            "note": "678.00"
+        },
+        {
+            "name": "5 RIOS MAMANI, MARIA PAULA",
+            "note": "674.00"
+        },
+        {
+            "name": "9 MORO ROJAS, LUIS FERNANDO",
+            "note": "655.00"
+        },
+        {
+            "name": "11 INOCENTE BERROSPI, JHAMILA FIORELLA",
+            "note": "652.50"
+        }
+    ],
+    "E.A.P.: INGENIERIA DE SISTEMAS / HUANUCO": [
+        {
+            "name": "1 LLALLE MEJIA, DYRON JEREMY",
+            "note": "788.50"
+        },
+        {
+            "name": "4 HURTADO MARCHAN, BENJAMIN ANTOR",
+            "note": "734.50"
+        },
+        {
+            "name": "6 HILARIO SANCHEZ, MIRTHA GISELLA",
+            "note": "715.50"
+        },
+        {
+            "name": "7 FABIAN ROMERO, MANUEL ADRIAN",
+            "note": "711.50"
+        },
+        {
+            "name": "8 TIBURCIO CARHUARICRA, RODRIGO",
+            "note": "709.00"
+        }
+    ],
+    "E.A.P.: PSICOLOGIA / HUANUCO": [
+        {
+            "name": "1 ROJAS TARAZONA, KEITHLYN ANSLEY",
+            "note": "765.00"
+        },
+        {
+            "name": "2 CAMACHO ALVARADO, ESTHEFANY MARITZA",
+            "note": "669.00"
+        },
+        {
+            "name": "4 MORALES NAVARRO, ANGIE CAMILA",
+            "note": "654.00"
+        },
+        {
+            "name": "5 SANTAMARIA CACERES, BRENDA DANIELA",
+            "note": "652.50"
+        },
+        {
+            "name": "7 CANCHARI GERONIMO, MARIANA RUBI",
+            "note": "648.50"
+        },
+        {
+            "name": "8 SILVA ORE, PADME MIA",
+            "note": "636.00"
+        }
+    ]
+}
